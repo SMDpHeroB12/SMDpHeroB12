@@ -46,14 +46,34 @@ I enjoy learning new tools, improving problem-solving skills, and working on rea
 
 ## 🌐 Connect With Me
 
-<p>
+<p align="center">
+
   <a href="https://github.com/SMDpHeroB12" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" />
+    <img
+      src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+      style="margin: 6px;"
+    />
   </a>
+
   <a href="https://www.linkedin.com/in/shekhmdnayem" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"
+      alt="LinkedIn"
+      style="margin: 6px;"
+    />
   </a>
+
+  <a href="https://x.com/shekhmdnayem" target="_blank">
+    <img
+      src="https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x&logoColor=white"
+      alt="X"
+      style="margin: 6px;"
+    />
+  </a>
+
 </p>
+
 
 ---
 
