@@ -4,7 +4,7 @@
 </p>
 
 <!-- ===================== NAME ===================== -->
-<h1 align="center">Hi 👋, I'm SMD</h1>
+<h1 align="center">Hi 👋, I'm SHEKH MD NAYEM YOUSUF</h1>
 <h3 align="center">Web Developer</h3>
 
 ---
@@ -20,7 +20,7 @@ I enjoy learning new tools, improving problem-solving skills, and working on rea
 ## 🚀 Current Activities
 
 - 🔍 Exploring **Next.js**
-- 🌍 Working on a **Tourism Website**
+- 🌍 Working on a **Care Service Website**
 - 📚 Learning modern web development best practices
 
 ---
@@ -50,11 +50,8 @@ I enjoy learning new tools, improving problem-solving skills, and working on rea
   <a href="https://github.com/SMDpHeroB12" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
-  <a href="https://www.linkedin.com/" target="_blank">
+  <a href="https://www.linkedin.com/in/shekhmdnayem" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="https://twitter.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
 </p>
 
