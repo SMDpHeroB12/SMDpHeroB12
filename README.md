@@ -16,6 +16,26 @@ Currently focusing on **Next.js** and modern frontend technologies.
 I enjoy learning new tools, improving problem-solving skills, and working on real-world projects.
 
 ---
+## 📊 GitHub Stats
+
+<p align="center">
+
+  <img src="https://img.shields.io/badge/JavaScript-★★★★☆-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+
+  <img src="https://img.shields.io/badge/HTML-★★★★★-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26" />
+
+  <img src="https://img.shields.io/badge/CSS-★★★★☆-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6" />
+
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=SMDpHeroB12&theme=github-dark&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
+
+---
 
 ## 🚀 Current Activities
 
@@ -76,25 +96,6 @@ I enjoy learning new tools, improving problem-solving skills, and working on rea
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-
-  <img src="https://img.shields.io/badge/JavaScript-★★★★☆-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-
-  <img src="https://img.shields.io/badge/HTML-★★★★★-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26" />
-
-  <img src="https://img.shields.io/badge/CSS-★★★★☆-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6" />
-
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=SMDpHeroB12&theme=github-dark&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
-
----
 
 ⭐ **Feel free to check out my repositories and connect with me!**
