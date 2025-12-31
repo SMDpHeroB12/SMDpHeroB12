@@ -80,16 +80,26 @@ I enjoy learning new tools, improving problem-solving skills, and working on rea
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SMDpHeroB12&show_icons=true&theme=tokyonight" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=SMDpHeroB12&show_icons=true&theme=github_dark&hide_border=true"
+    alt="GitHub Stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SMDpHeroB12&layout=compact&theme=tokyonight" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SMDpHeroB12&layout=compact&theme=github_dark&hide_border=true"
+    alt="Top Languages"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SMDpHeroB12&theme=tokyonight" />
+  <img
+    src="https://streak-stats.demolab.com?user=SMDpHeroB12&theme=github-dark&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
+
 
 ---
 
