@@ -1,16 +1,79 @@
-## Hi there 👋
+<!-- ===================== BANNER ===================== -->
+<p align="center">
+  <img src="https://i.ibb.co/3T9KQ4z/github-banner.png" alt="Banner" />
+</p>
 
-<!--
-**SMDpHeroB12/SMDpHeroB12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- ===================== NAME ===================== -->
+<h1 align="center">Hi 👋, I'm SMD</h1>
+<h3 align="center">Web Developer</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+I am a passionate Web Developer who loves building modern, scalable, and user-friendly web applications.  
+Currently focusing on **Next.js** and modern frontend technologies.  
+I enjoy learning new tools, improving problem-solving skills, and working on real-world projects.
+
+---
+
+## 🚀 Current Activities
+
+- 🔍 Exploring **Next.js**
+- 🌍 Working on a **Tourism Website**
+- 📚 Learning modern web development best practices
+
+---
+
+## 🛠️ Skills
+
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
+</p>
+
+### 🧠 Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+### ⚙️ Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,figma" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p>
+  <a href="https://github.com/SMDpHeroB12" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="https://www.linkedin.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://twitter.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SMDpHeroB12&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SMDpHeroB12&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SMDpHeroB12&theme=tokyonight" />
+</p>
+
+---
+
+⭐ **Feel free to check out my repositories and connect with me!**
