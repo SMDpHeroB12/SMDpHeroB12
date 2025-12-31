@@ -1,6 +1,6 @@
 <!-- ===================== BANNER ===================== -->
 <p align="center">
-  <img src="https://i.ibb.co/3T9KQ4z/github-banner.png" alt="Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=220&section=header&text=SHEKH%20MD%20NAYEM%20YOUSUF%20%7C%20Web%20Developer&fontSize=36&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <!-- ===================== NAME ===================== -->
@@ -74,11 +74,9 @@ I enjoy learning new tools, improving problem-solving skills, and working on rea
 
 </p>
 
-
 ---
 
 ## 📊 GitHub Stats
-
 
 <p align="center">
 
@@ -96,7 +94,6 @@ I enjoy learning new tools, improving problem-solving skills, and working on rea
     alt="GitHub Streak"
   />
 </p>
-
 
 ---
 
