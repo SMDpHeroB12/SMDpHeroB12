@@ -14,6 +14,27 @@ I enjoy learning new tools, improving problem-solving skills, and working on rea
 ---
 ## 📊 GitHub Stats
 
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=smdpherob12&show_icons=true&theme=dracula)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=smdpherob12&theme=dracula)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=smdpherob12&layout=compact&theme=dracula&card_width=967px)
+
+
+
+<!-- demos 
+
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=smdpherob12&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=smdpherob12&theme=radical) 
+
+<p align="center">
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=smdpherob12&layout=compact&theme=radical"
+    alt="GitHub Streak"
+  />
+
+</p>
+
+---
+
 
 <p align="center">
   <img
@@ -31,6 +52,7 @@ I enjoy learning new tools, improving problem-solving skills, and working on rea
   <img src="https://img.shields.io/badge/CSS-★★★★☆-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6" />
 
 </p>
+-->
 
 ---
 
