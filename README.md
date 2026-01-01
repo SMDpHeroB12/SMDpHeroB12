@@ -1,11 +1,7 @@
 <!-- ===================== BANNER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=220&section=header&text=SHEKH%20MD%20NAYEM%20YOUSUF%20%7C%20Web%20Developer&fontSize=36&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=SHEKH%20MD%20NAYEM%20YOUSUF&fontSize=36&animation=fadeIn&desc=Web%20Developer&descAlignY=50&fontAlignY=40" />
 </p>
-
-<!-- ===================== NAME ===================== -->
-<h1 align="center">Hi 👋, I'm SHEKH MD NAYEM YOUSUF</h1>
-<h3 align="center">Web Developer</h3>
 
 ---
 
@@ -18,6 +14,14 @@ I enjoy learning new tools, improving problem-solving skills, and working on rea
 ---
 ## 📊 GitHub Stats
 
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=SMDpHeroB12&theme=github-dark&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
+
 <p align="center">
 
   <img src="https://img.shields.io/badge/JavaScript-★★★★☆-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
@@ -26,13 +30,6 @@ I enjoy learning new tools, improving problem-solving skills, and working on rea
 
   <img src="https://img.shields.io/badge/CSS-★★★★☆-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6" />
 
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=SMDpHeroB12&theme=github-dark&hide_border=true"
-    alt="GitHub Streak"
-  />
 </p>
 
 ---
