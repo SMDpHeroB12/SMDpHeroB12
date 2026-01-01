@@ -65,28 +65,16 @@ I enjoy learning new tools, improving problem-solving skills, and working on rea
 
 <p align="center">
 
-  <a href="https://github.com/SMDpHeroB12" target="_blank">
-    <img
-      src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"
-      alt="GitHub"
-      style="margin: 6px;"
-    />
-  </a>
+<a href="https://github.com/SMDpHeroB12" target="_blank">
+<img src="https://www.readmecodegen.com/api/social-icon?name=github&size=64&animation=shake&reverseBackground=true&link=https%3A%2F%2Fgithub.com%2FSMDpHeroB12" alt="github" />
+</a>
 
   <a href="https://www.linkedin.com/in/shekhmdnayem" target="_blank">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"
-      alt="LinkedIn"
-      style="margin: 6px;"
-    />
+    <img src="https://www.readmecodegen.com/api/social-icon?name=linkedin&size=64&animation=tada&reverseBackground=true" alt="linkedin" />
   </a>
 
   <a href="https://x.com/shekhmdnayem" target="_blank">
-    <img
-      src="https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x&logoColor=white"
-      alt="X"
-      style="margin: 6px;"
-    />
+   <img src="https://www.readmecodegen.com/api/social-icon?name=x&size=64&animation=fade&reverseBackground=true" alt="x" />
   </a>
 
 </p>
