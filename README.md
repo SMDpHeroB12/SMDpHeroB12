@@ -12,10 +12,22 @@ Currently focusing on **Next.js** and modern frontend technologies.
 I enjoy learning new tools, improving problem-solving skills, and working on real-world projects.
 
 ---
+
+## 🟩⬜ GitHub Streak
+
+<p align="center">
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api/streak?username=smdpherob12&theme=dracula"
+    alt="GitHub Streak"
+  />
+
+</p>
+
+---
+
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=smdpherob12&show_icons=true&theme=dracula)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=smdpherob12&theme=dracula)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=smdpherob12&show_icons=true&theme=dracula&card_width=967px)
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=smdpherob12&layout=compact&theme=dracula&card_width=967px)
 
 
